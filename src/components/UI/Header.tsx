@@ -30,7 +30,7 @@ const Header = () => {
                             <h1 className="uppercase">Info_World</h1>
                         </NavLink>
                     </div>
-                    <ul className="flex  items-center justify-center gap-3 font-semibold  text-md text-white">
+                    <ul className="flex  items-center justify-center gap-8 font-semibold  text-md text-white">
                         {
                             menuBar.map((item, index) => (
                                 <li key={index}>
