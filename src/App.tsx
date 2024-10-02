@@ -6,6 +6,7 @@ import Country from "./pages/Country";
 import AppLayout from "./components/layout/AppLayout";
 import ErrorPage from "./components/ErrorPage";
 
+import "./index.css"
 const App = () => {
   const router = createBrowserRouter([
     {

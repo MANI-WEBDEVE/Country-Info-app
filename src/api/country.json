@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Pakistan",
+        "capital": "Islamabad",
+        "population": 216565318,
+        "fact": "The ancient Indus Valley Civilization, which dates back to 3300 BCE, was first discovered in modern-day Pakistan."
+    },
+    {
+        "id": 2,
+        "name": "China",
+        "capital": "Beijing",
+        "population": 1439323776,
+        "fact": "The Great Wall of China, which stretches over 4,000 miles, is not visible from space."
+    },
+    {
+        "id": 3,
+        "name": "India",
+        "capital": "New Delhi",
+        "population": 1380004385,
+        "fact": "The Hindu festival of Holi, also known as the festival of colors, is celebrated by throwing colored powders at each other."
+    },
+    {
+        "id": 4,
+        "name": "United States",
+        "capital": "Washington, D.C.",
+        "population": 331449285,
+        "fact": "The shortest war in history was between the United States and the Hawaiian Islands, lasting only 45 minutes."
+    },
+    {
+        "id": 5,
+        "name": "Indonesia",
+        "capital": "Jakarta",
+        "population": 273523615,
+        "fact": "Indonesia is the world's largest archipelago, comprising over 17,000 islands."
+    },
+    {
+        "id": 6,
+        "name": "Brazil",
+        "capital": "Brasilia",
+        "population": 212559417,
+        "fact": "Brazil is home to the largest population of Japanese people outside of Japan."
+    },
+    {
+        "id": 7,
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "population": 202915907,
+        "fact": "Nigeria has the highest number of twins born in the world, with an average of 20.8 twins per 1,000 births."
+    },
+    {
+        "id": 8,
+        "name": "Bangladesh",
+        "capital": "Dhaka",
+        "population": 166303498,
+        "fact": "The national dress of Bangladesh is the lungi, a long piece of fabric wrapped around the waist."
+    },
+    {
+        "id": 9,
+        "name": "Russia",
+        "capital": "Moscow",
+        "population": 145934027,
+        "fact": "Russia's Lake Baikal is the world's largest and oldest freshwater lake, with about 20% of the world's unfrozen freshwater."
+    },
+    {
+        "id": 10,
+        "name": "Japan",
+        "capital": "Tokyo",
+        "population": 127817277,
+        "fact": "Japan has the highest number of centenarians (people living to 100 or older) in the world."
+    }
+]
+
+
